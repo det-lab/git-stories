@@ -1,0 +1,8 @@
+Note to others who may wish to work on/contribute to this project:
+
+In the directory 'gerudo7 - Art' there is a file simply titled "pg1.tiff".
+I started sketching a layout for a melodramatic manga about the master branch being broken.
+I was stuck on where to go with it and then got busy with other things.
+I may come back and finish it at some point, 
+but if anyone else has interest in working off of this idea or the sketch,
+they are certainly welcome to do so.
